@@ -1,2 +1,2 @@
 # logServer
-web log server
+Qt web log server
